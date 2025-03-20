@@ -7,7 +7,9 @@ https://www.youtube.com/watch?v=JjTSYBZFVq8&list=PLcS0ag10H8oas6rbO6rJ83PmMkl_su
     SphereMap 
     MultiTexturing 
     PerFragment Lights 
-  
+    
+# Reference : Super Bibal 7th ediition
+
 # Technical Details : 
     Rendering API        : OpenGL 
     Programming Language : C++  
